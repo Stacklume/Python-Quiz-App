@@ -32,3 +32,6 @@ Python-Quiz-App/
 ```bash
 python main.py
 ```
+## Screenshot
+
+![Quiz Demo](screenshots/quiz-demo.png)
